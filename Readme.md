@@ -1,0 +1,1 @@
+## Contains Azure Cli, pulumi, and kubectl ready to use.
